@@ -1,0 +1,6 @@
+rootProject.name = 'wbot'
+
+include 'updater'
+
+include 'bot'
+
